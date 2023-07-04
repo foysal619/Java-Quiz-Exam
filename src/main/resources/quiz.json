@@ -1,0 +1,258 @@
+[
+  {
+    "answerkey": 4,
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Decision table testing",
+    "option 4": "Adhoc Testing",
+    "question": "Which is whitebox testing technique?",
+    "option 1": "Equivalent Partitioning",
+    "option 2": "Boundary value testing"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Sanity Testing",
+    "option 4": "Regression Testing",
+    "question": "Which testing is done by developer?",
+    "option 1": "Unit Testing",
+    "option 2": "Integration Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Gorila Testing",
+    "option 4": "Benchmark Testing",
+    "question": "Which is functional testing?",
+    "option 1": "Load Testing",
+    "option 2": "Security Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Peer review",
+    "option 4": "Inspection",
+    "question": "Which is not static testing?",
+    "option 1": "Walkthrough",
+    "option 2": "Exploratory Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Failure",
+    "option 4": "Defect",
+    "question": "A deviation from of actual result from the expected result to the end user is called?",
+    "option 1": "Fault",
+    "option 2": "Bug"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Comparing actual results to expected results",
+    "option 4": "Analyzing the cause of failure",
+    "question": "Which of the following is a typical test objective?",
+    "option 1": "Preventing defects",
+    "option 2": "Repairing defects"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "The error",
+    "option 4": "The defect",
+    "question": "Suppose, you visit the HSC result publishing site to see the result of your younger brother\\sister. But you see that site is down. What is the reason?",
+    "option 1": "The fault",
+    "option 2": "The failure"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Fault",
+    "option 4": "Failure",
+    "question": "What is missing requirement?",
+    "option 1": "Error",
+    "option 2": "Bug"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "While doing automation",
+    "option 4": "Test procedure planning",
+    "question": "Test data planning is included when?",
+    "option 1": "Equivalent partitioning",
+    "option 2": "Boundary value analysis"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Writing Testcase",
+    "option 4": "Writing user manual",
+    "question": "Which of the following is an example of a task that can be carried out as part of the test process?",
+    "option 1": "Requirement Analysis",
+    "option 2": "Assign task to QA team"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Re-Test",
+    "option 4": "Regression Test",
+    "question": "Developer fixed an issue and told you to test the feature. What is the testing type?",
+    "option 1": "Feature Test",
+    "option 2": "Integration Test"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Both of the above",
+    "option 4": "None of the above",
+    "question": "Dynamic testing is mainly?",
+    "option 1": "Validation Techniques",
+    "option 2": "Verification Techniques"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Branch Testing",
+    "option 4": "State Transition",
+    "question": "What is not the blackbox testing strategy?",
+    "option 1": "Equivalence Partitioning",
+    "option 2": "Boundary Value Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Test implementation and execution",
+    "option 4": "Evaluating exit criteria",
+    "question": "Which is not in fundamental test process?",
+    "option 1": "Test planning and control",
+    "option 2": "Requirement Analysis"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Test strategy",
+    "option 4": "Project Initiation Note [PIN]",
+    "question": "Which of the following is not part of the Test document?",
+    "option 1": "Test Case",
+    "option 2": "Requirements Traceability Matrix [RTM]"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Component testing",
+    "option 4": "Maintenance testing",
+    "question": "The _______ testing should include operational tests of the new environment as well as of the changed software",
+    "option 1": "System Testing",
+    "option 2": "Integration testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "7",
+    "option 4": "8",
+    "question": "How many Principles are there in Software Testing?",
+    "option 1": "5",
+    "option 2": "6"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Failure mode analysis",
+    "option 4": "None of the mentioned",
+    "question": "Which of the following is not included in failure costs?",
+    "option 1": "Rework",
+    "option 2": "Repair"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Programmers",
+    "option 4": "None of the mentioned",
+    "question": "Which requirements are the foundation from which quality is measured?",
+    "option 1": "Hardware",
+    "option 2": "Software"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Audits and reviews to be performed",
+    "option 4": "Documents to be produced by the SQA group",
+    "question": "Which of the following is not a SQA plan for a project?",
+    "option 1": "Evaluations to be performed",
+    "option 2": "Amount of technical work"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Quality Assurance",
+    "option 4": "None of the mentioned",
+    "question": "Degree to which design specifications are followed in manufacturing the product is called",
+    "option 1": "Quality Control",
+    "option 2": "Quality of conformance"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "6",
+    "option 4": "7",
+    "question": "How many Principles are there in Software Testing?",
+    "option 1": "4",
+    "option 2": "5"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Warranty work",
+    "option 4": "Complaint resolution",
+    "question": "Which of the following is not included in External failure costs?",
+    "option 1": "Testing",
+    "option 2": "Help line support"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Quality planning",
+    "option 4": "Testing",
+    "question": "Which of the following is not an appraisal cost in SQA?",
+    "option 1": "Inter-process inspection",
+    "option 2": "Maintenance"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "SQA group",
+    "option 4": "All of the mentioned",
+    "question": "Who identifies, documents, and verifies that corrections have been made to the software?",
+    "option 1": "Project manager",
+    "option 2": "Project team"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Failure cause",
+    "option 4": "None of the mentioned",
+    "question": "The primary objective of formal technical reviews is to find _________ during the process so that they do not become defects after release of the software.",
+    "option 1": "Errors",
+    "option 2": "Equivalent faults"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Test equipment",
+    "option 4": "Equipment calibration and maintenance",
+    "question": "What is not included in prevention costs?",
+    "option 1": "Quality planning",
+    "option 2": "Formal technical reviews"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "SQA group",
+    "option 4": "All of the mentioned",
+    "question": "Who identifies, documents, and verifies that corrections have been made to the software?",
+    "option 1": "Project manager",
+    "option 2": "Project team"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Concatenated Loops",
+    "option 4": "All of the above",
+    "question": "Loop Testing methodology includes which of the following. ",
+    "option 1": "Simple Loops",
+    "option 2": "Nested Loops"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "planning",
+    "option 4": "Check Exit criteria completion",
+    "question": "Faults are found most cost-effectively in which test activity?",
+    "option 1": "Design",
+    "option 2": "Execution"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Procedure errors",
+    "option 4": "None of the above",
+    "question": "What is the main purpose of integration testing?",
+    "option 1": "Design errors",
+    "option 2": "Interface errors"
+  }
+]
